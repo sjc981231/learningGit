@@ -1,6 +1,11 @@
 thisis dev test
 <<<<<<< HEAD
+<<<<<<< HEAD
 1+1=2andand
 =======
 1+1=2&&
 >>>>>>> d141a8f (Update aaaa.txt)
+=======
+1+1=2&& and and
+zxczxc
+>>>>>>> 3cbb356 (rebase test add)
