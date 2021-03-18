@@ -1,2 +1,6 @@
 thisis dev test
+<<<<<<< HEAD
 1+1=2andand
+=======
+1+1=2&&
+>>>>>>> d141a8f (Update aaaa.txt)
